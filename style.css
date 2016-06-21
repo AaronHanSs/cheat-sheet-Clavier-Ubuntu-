@@ -2,7 +2,12 @@ h1 {
   text-align: center;
   color: blue;
 }
-table {
-border: 2;
-
+th {
+  text-border: center;
+  colspan: 5;
+  color: blue;
+}
+td {
+border: 2px dashed blue;
+font-size: 1em;
 }
