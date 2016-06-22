@@ -1,13 +1,14 @@
+{
+  font-size: 1em
+}
 h1 {
   text-align: center;
   color: blue;
 }
 th {
   text-border: center;
-  colspan: 5;
-  color: blue;
+    color: black;
 }
 td {
-border: 2px dashed blue;
-font-size: 1em;
+border: 2px dashed black;
 }
