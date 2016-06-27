@@ -1,26 +1,32 @@
 @media screen and (max-width: 1024px)
  {
   font-size: 1em
-  #bloc_page
-  {
+    {
     width: auto;
     height: auto;
+    /* responsive */
   }
 }
+
 body {
   background-color: #778899;
+  /* fond couleur de la page */
  }
+
  h1 {
    text-align: center;
   color: blue;
   color: #BDB76B;
+  /* couleur titre */
  }
+
  th {
   text-border: center;
   text-align: : center;
      color: black;
     font-size: 23px;
- }
+}
+
  td {
    border-width:1px;
  border-style:solid;
